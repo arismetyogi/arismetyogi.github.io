@@ -1,14 +1,13 @@
 # Maria Brió Pérez
 
 <p align="center">
-  <a href="https://mariabrio.vercel.app">
+  <a href="https://arismetyogi.vercel.app">
     <img src="/assets/favicon/android-chrome-192x192.png" width="70" alt="Portfolio's favicon.">
   </a>
 </p>
 <p align="center">
   <span style="font-size: larger;">A professional, minimalist portfolio</span>
 </p>
-
 
 <div align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 badge" title="HTML" />
@@ -17,31 +16,30 @@
 </div>
 
 <p align="center">
-  <a href="https:/github.com/JuditKaramazov">🐱 /JuditKaramazov</a>
+  <a href="https:/github.com/arismetyogi">🐱 /Yogi Arismet</a>
 </p>
-<p align="center">
+<!-- <p align="center">
   <a href="https://karamazfolio.xyz/">📍 Portfolio</a>
 </p>
 <p align="center">
   <a href="https://karamablog.xyz">☕ Blog</a>
-</p>
+</p> -->
 
 ---
 
-Table of Contents
------------------
+<!-- ## Table of Contents
 
-* [🔧 Getting Started](#-getting-started)
-* [🚪 Introduction](#-introduction)
-* [💾 Content](#-content)
-* [🔮 Features](#-features)
-  * [🌒 Day'n'Nite](#-daynnite)
-  * [📬 EmailJS](#-emailjs)
-  * [📜 Single page](#-single-page)
-  * [🖼️ Swiper](#-swiper)
-* [💄 Style](#-style)
-* [🥳 Immense thanks to them awesome Sponsors](#-immense-thanks-to-them-awesome-sponsors)
-* [🏛 License & Copyright](#-license--copyright)
+- [🔧 Getting Started](#-getting-started)
+- [🚪 Introduction](#-introduction)
+- [💾 Content](#-content)
+- [🔮 Features](#-features)
+  - [🌒 Day'n'Nite](#-daynnite)
+  - [📬 EmailJS](#-emailjs)
+  - [📜 Single page](#-single-page)
+  - [🖼️ Swiper](#-swiper)
+- [💄 Style](#-style)
+- [🥳 Immense thanks to them awesome Sponsors](#-immense-thanks-to-them-awesome-sponsors)
+- [🏛 License & Copyright](#-license--copyright)
 
 ---
 
@@ -71,15 +69,15 @@ After admiring the above image, I would _definitely_ hire such a professional, f
 
 # 💾 Content
 
-Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for Maria Brió Pérez](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual.
+Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for Maria Brió Pérez](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual. -->
 
-| Section                                                  | Description                                                                                                                                                                                                                                                                                                                                                                               |
-|-------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **About**                               | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: from her [LinkedIn](https://www.linkedin.com/in/mariabrioperez/) to her [Orcid](https://orcid.org/0000-0002-6328-9556) account, a site connecting research and researchers. You can even access her [doctoral thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-) or [download her CV](/assets/MariaBrioPerez-CV.pdf) from there!                                                                                                                                                                                              |
-| **Skills**      | 🛠️ **Technical expertise**, **project management**, **software**, **languages**... you name it! Everything has been organized under the shape of an **accordion** in order to make information as accessible as readable.                                                                                                                          |
-| **Experience**                             | 💼 Education? Work? Here, you'll find **both options**, with the proper experience displayed as a visual timeline. You have no excuse now, recruiters!                                                                                     |
-| **Articles**                             | 📑 Undoubtedly, articles are an essential part of the doctoral process. Although Maria already _nailed_ her oral defense (_believe me: I watched it, and it was impeccable_), she also published **several research articles**, just like the ones you can find in [Orcid](https://orcid.org/0000-0002-6328-9556). Here, we're only displaying the most recent ones, but it seemed a great idea to integrate them as visually and interactively as possible.                                                                                    |
-| **Contact**            | ☎️ Phone numbers, email addresses... and a **form**! A contact form that actually **works**! Is this... magic, maybe...? |
+| Section        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **About**      | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: from her [LinkedIn](https://www.linkedin.com/in/mariabrioperez/) to her [Orcid](https://orcid.org/0000-0002-6328-9556) account, a site connecting research and researchers. You can even access her [doctoral thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-) or [download her CV](/assets/MariaBrioPerez-CV.pdf) from there! |
+| **Skills**     | 🛠️ **Technical expertise**, **project management**, **software**, **languages**... you name it! Everything has been organized under the shape of an **accordion** in order to make information as accessible as readable.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
+| **Experience** | 💼 Education? Work? Here, you'll find **both options**, with the proper experience displayed as a visual timeline. You have no excuse now, recruiters!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
+| **Articles**   | 📑 Undoubtedly, articles are an essential part of the doctoral process. Although Maria already _nailed_ her oral defense (_believe me: I watched it, and it was impeccable_), she also published **several research articles**, just like the ones you can find in [Orcid](https://orcid.org/0000-0002-6328-9556). Here, we're only displaying the most recent ones, but it seemed a great idea to integrate them as visually and interactively as possible.                                                                                                                                                                                                   |
+| **Contact**    | ☎️ Phone numbers, email addresses... and a **form**! A contact form that actually **works**! Is this... magic, maybe...?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ---
 
@@ -93,42 +91,43 @@ Those, however, were extremely simple yet not functional at all. Beautiful? Yes.
 
 Just as it's mandatory these days, I incorporated a **theme switcher** to enhance the visual appeal for readers and nocturnal creatures of the interwebz, which will hopefully allow users to personalize their viewing experience based on their preferences.
 
-![Dark mode.](/assets/screenshots/MariaBrioPortfolio-02.png)
+<!-- ![Dark mode.](/assets/screenshots/MariaBrioPortfolio-02.png) -->
 
 ## 📬 EmailJS
 
 What makes [EmailJS](https://www.emailjs.com/) great is the fact that it keeps things simple. This beautiful tool helps to send emails using client-side technologies only. No server is required – just connect EmailJS to one of the supported email services, create an email template, and use one of their SDK libraries to trigger an email. Boom! That's it!
 
-
-![EmailJS integration.](/assets/screenshots/MariaBrioPortfolio-03.png)
+<!-- ![EmailJS integration.](/assets/screenshots/MariaBrioPortfolio-03.png) -->
 
 In case you are curious about the implementation itself, don't hesitate to inspect the [main.js file](/js/main.js):
 
 ```javascript
 /* Mail integration */
-document.addEventListener("DOMContentLoaded", function() {
-  emailjs.init("YOUR_USER_ID")
-})
+document.addEventListener("DOMContentLoaded", function () {
+  emailjs.init("YOUR_USER_ID");
+});
 
-document.getElementById('contact-form').addEventListener('submit', function(event) {
-  event.preventDefault()
+document.getElementById("contact-form").addEventListener("submit", function (event) {
+  event.preventDefault();
 
-  emailjs.sendForm('YOUR_SERVICE_ID', 'YOUR_TEMPLATE_ID', this)
-    .then(function(response) {
-      console.log('Success!', response.status, response.text)
-      alert('Email sent successfully!')
-      document.getElementById('contact-form').reset()
-    }, function(error) {
-      console.log('Failed...', error)
-      alert('Email sending failed.')
-    })
-})
+  emailjs.sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", this).then(
+    function (response) {
+      console.log("Success!", response.status, response.text);
+      alert("Email sent successfully!");
+      document.getElementById("contact-form").reset();
+    },
+    function (error) {
+      console.log("Failed...", error);
+      alert("Email sending failed.");
+    }
+  );
+});
 ```
 
 > [!NOTE]
 > Needless to say, the [original documentation](https://www.emailjs.com/docs/) is worth your time, guys - but as you can see, integrating EmailJS into your project couldn't be easier!
 
-## 📜 Single page
+<!-- ## 📜 Single page
 
 Truth said, one of the factors allowing me to realize that I'm indeed _evolving into the Lola Flores of the coding sector_ is that now, I can tell when I should (or shouldn't) overcomplicate my life. As programmers, our main goal is solving problems - and not all issues require the same tools, not even intricate ones.
 
@@ -147,7 +146,7 @@ In this case, I found it to be an extremely useful tool to display some of Maria
 > [!NOTE]
 > If you don't want to include Swiper files in your project, remember that you may use it from CDN instead. For more information, here's the link to [Swiper's docs](https://swiperjs.com/get-started).
 
---- 
+---
 
 # 💄 Style
 
@@ -174,14 +173,15 @@ For the past, present, and future moments, `thank you`. You are an extremely bea
 <p align="center">
   <img src="https://raw.githubusercontent.com/JuditKaramazov/InsightsFromJuniorToFutureSeniors/main/images/lemrhali-logo.png" width="140" alt="Original Lemrhali Entreprises logo."
     style="filter: drop-shadow(0px 0px 10px rgba(0, 0, 0, .7));">
-</p>
+</p> -->
 
 ---
 
 # 🏛 License & Copyright
 
-God save our [MIT License](LICENSE.txt) and its infinite benevolence! It burns! That said, and only if you the beautiful portfolio you found here, remember that you can make the Dinosaur of the Depths extremely happy if you...
-<br />
+All original codes are under [MIT License](LICENSE.txt) under the name JuditKaramazov!
+
+<!-- <br />
 
 ---
 
@@ -190,4 +190,4 @@ God save our [MIT License](LICENSE.txt) and its infinite benevolence! It burns! 
 </h1>
 <h2 align="center">
   <a href="https://www.buymeacoffee.com/JuditKaramazov" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 197px !important;" ></a>
-</h2>
+</h2> -->
