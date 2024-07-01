@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:4.0
+FN:Yogi Arismet.
+N:Arismet;Yogi;
+TITLE:Data Scientist
+EMAIL:arismetyogi@gmail.com
+TEL:+6281290867298
+URL;TYPE=PORTFOLIO:https://arismetyogi.vercel.app/
+X-SOCIALPROFILE;TYPE=LINKEDIN:https://www.linkedin.com/in/arismetyogi/
+END:VCARD
