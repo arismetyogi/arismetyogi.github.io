@@ -1,0 +1,20 @@
+body {
+  min-height: 2000px;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+a {
+  text-decoration: none;
+}
+
+.jumbotron,
+.projects {
+  background-color: #e0ffff;
+}
+
+.img-thumbnail {
+  width: 200px;
+}
