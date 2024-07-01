@@ -581,7 +581,7 @@ img {
 .project-container .swiper-button-next::after {
   content: "";
 }
-.project-container .swiper-articles-icon {
+.project-container .swiper-project-icon {
   color: var(--first-color);
   font-size: 2rem;
 }
