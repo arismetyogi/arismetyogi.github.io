@@ -71,13 +71,13 @@ After admiring the above image, I would _definitely_ hire such a professional, f
 
 Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for Maria Brió Pérez](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual. -->
 
-| Section        | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
-| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **About**      | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: from her [LinkedIn](https://www.linkedin.com/in/mariabrioperez/) to her [Orcid](https://orcid.org/0000-0002-6328-9556) account, a site connecting research and researchers. You can even access her [doctoral thesis](https://research.utwente.nl/en/publications/a-journey-towards-responsive-and-circular-polymer-brushes-design-) or [download her CV](/assets/MariaBrioPerez-CV.pdf) from there! |
-| **Skills**     | 🛠️ **Technical expertise**, **project management**, **software**, **languages**... you name it! Everything has been organized under the shape of an **accordion** in order to make information as accessible as readable.                                                                                                                                                                                                                                                                                                                                                                                                                                      |
-| **Experience** | 💼 Education? Work? Here, you'll find **both options**, with the proper experience displayed as a visual timeline. You have no excuse now, recruiters!                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| **Articles**   | 📑 Undoubtedly, articles are an essential part of the doctoral process. Although Maria already _nailed_ her oral defense (_believe me: I watched it, and it was impeccable_), she also published **several research articles**, just like the ones you can find in [Orcid](https://orcid.org/0000-0002-6328-9556). Here, we're only displaying the most recent ones, but it seemed a great idea to integrate them as visually and interactively as possible.                                                                                                                                                                                                   |
-| **Contact**    | ☎️ Phone numbers, email addresses... and a **form**! A contact form that actually **works**! Is this... magic, maybe...?                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| Section        | Description                                                                                                                                                                                                                                                                                                                                                                                   |
+| -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **About**      | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: [LinkedIn](https://www.linkedin.com/in/arismetyogi/) account. You can even [download my CV](/assets/YogiArismet-CV.pdf) from there! |
+| **Skills**     | 🛠️ **Technical expertise**, **project management**, **software**, **languages**... you name it! Everything has been organized under the shape of an **accordion** in order to make information as accessible as readable.                                                                                                                                                                     |
+| **Experience** | 💼 Education? Work? Here, you'll find **both options**, with the proper experience displayed as a visual timeline. You have no excuse now, recruiters!                                                                                                                                                                                                                                        |
+| **Articles**   | 📑 Undoubtedly, Projects are an essential part of my work. Here, we're only displaying the most recent ones, but it seemed a great idea to integrate them as visually and interactively as possible.                                                                                                                                                                                          |
+| **Contact**    | ☎️ Phone numbers, email addresses... and a **form**! A contact form that actually **works**! Is this... magic, maybe...?                                                                                                                                                                                                                                                                      |
 
 ---
 
@@ -107,21 +107,23 @@ document.addEventListener("DOMContentLoaded", function () {
   emailjs.init("YOUR_USER_ID");
 });
 
-document.getElementById("contact-form").addEventListener("submit", function (event) {
-  event.preventDefault();
+document
+  .getElementById("contact-form")
+  .addEventListener("submit", function (event) {
+    event.preventDefault();
 
-  emailjs.sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", this).then(
-    function (response) {
-      console.log("Success!", response.status, response.text);
-      alert("Email sent successfully!");
-      document.getElementById("contact-form").reset();
-    },
-    function (error) {
-      console.log("Failed...", error);
-      alert("Email sending failed.");
-    }
-  );
-});
+    emailjs.sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", this).then(
+      function (response) {
+        console.log("Success!", response.status, response.text);
+        alert("Email sent successfully!");
+        document.getElementById("contact-form").reset();
+      },
+      function (error) {
+        console.log("Failed...", error);
+        alert("Email sending failed.");
+      }
+    );
+  });
 ```
 
 > [!NOTE]
@@ -179,7 +181,7 @@ For the past, present, and future moments, `thank you`. You are an extremely bea
 
 # 🏛 License & Copyright
 
-All original codes are under [MIT License](LICENSE.txt) under the name JuditKaramazov!
+Original work are under [MIT License](LICENSE.txt) under the name JuditKaramazov!
 
 <!-- <br />
 
