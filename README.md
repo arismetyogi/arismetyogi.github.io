@@ -1,4 +1,4 @@
-# Maria Brió Pérez
+# Yogi Arismet
 
 <p align="center">
   <a href="https://arismetyogi.vercel.app">
@@ -71,6 +71,8 @@ After admiring the above image, I would _definitely_ hire such a professional, f
 
 Some of you are _naturals_ here; don't dare try to fool me. Now, can you guess what's inside this "metaphorical floppy disk", aka [the beautiful portfolio I made for Maria Brió Pérez](https://mariabrio.vercel.app)? Fear not: we will keep it as simplified and accessible as usual. -->
 
+# 💾 Content
+
 | Section        | Description                                                                                                                                                                                                                                                                                                                                                                                   |
 | -------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **About**      | ℹ️ _Who is this person we have in front of us?_ As it's simply essential these days, the first sections translate into a **brief introduction** displaying a profile picture, some crucial information, and different contact and professional platforms: [LinkedIn](https://www.linkedin.com/in/arismetyogi/) account. You can even [download my CV](/assets/YogiArismet-CV.pdf) from there! |
@@ -107,23 +109,21 @@ document.addEventListener("DOMContentLoaded", function () {
   emailjs.init("YOUR_USER_ID");
 });
 
-document
-  .getElementById("contact-form")
-  .addEventListener("submit", function (event) {
-    event.preventDefault();
+document.getElementById("contact-form").addEventListener("submit", function (event) {
+  event.preventDefault();
 
-    emailjs.sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", this).then(
-      function (response) {
-        console.log("Success!", response.status, response.text);
-        alert("Email sent successfully!");
-        document.getElementById("contact-form").reset();
-      },
-      function (error) {
-        console.log("Failed...", error);
-        alert("Email sending failed.");
-      }
-    );
-  });
+  emailjs.sendForm("YOUR_SERVICE_ID", "YOUR_TEMPLATE_ID", this).then(
+    function (response) {
+      console.log("Success!", response.status, response.text);
+      alert("Email sent successfully!");
+      document.getElementById("contact-form").reset();
+    },
+    function (error) {
+      console.log("Failed...", error);
+      alert("Email sending failed.");
+    }
+  );
+});
 ```
 
 > [!NOTE]
